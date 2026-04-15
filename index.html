@@ -1,0 +1,105 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#0b1020" />
+  <title>LAALT Mini Lab Public</title>
+  <meta
+    name="description"
+    content="Demo visual publica del ecosistema LAALT para mostrar lectura ejecutiva de hallazgos sin exponer el metodo privado."
+  />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div class="hero-copy">
+      <p class="eyebrow">Demo visual publica</p>
+      <h1>LAALT Mini Lab Public</h1>
+      <p class="lede">
+        Capa visual del ecosistema LAALT para mostrar hallazgos de auditoria
+        en un formato breve, ejecutivo y seguro para portfolio.
+      </p>
+      <div class="hero-notes">
+        <span>Dataset publico y reducido</span>
+        <span>Showcase visual</span>
+        <span>No es el core privado</span>
+      </div>
+    </div>
+    <div class="hero-card">
+      <p class="hero-card-label">Ubicacion en el ecosistema</p>
+      <ul>
+        <li><strong>Overview:</strong> contexto publico general</li>
+        <li><strong>Guide public:</strong> capa pedagogica recortada</li>
+        <li><strong>Mini-lab public:</strong> demo visual</li>
+      </ul>
+    </div>
+  </header>
+
+  <main class="page">
+    <section class="summary" id="summary"></section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <p class="panel-kicker">Tablero de lectura</p>
+          <h2>Set publico de hallazgos</h2>
+        </div>
+        <div class="filters">
+          <label>
+            Prioridad
+            <select id="priorityFilter">
+              <option value="">Todas</option>
+            </select>
+          </label>
+          <label>
+            Estado
+            <select id="statusFilter">
+              <option value="">Todos</option>
+            </select>
+          </label>
+        </div>
+      </div>
+
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>ID</th>
+              <th>Hallazgo</th>
+              <th>Prioridad</th>
+              <th>Estado</th>
+              <th>Owner</th>
+              <th>Vencimiento</th>
+            </tr>
+          </thead>
+          <tbody id="findingsBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <section class="panel detail" id="detailPanel">
+      <div class="empty-state">
+        <p class="panel-kicker">Detalle</p>
+        <h2>Selecciona un hallazgo</h2>
+        <p>
+          Esta vista muestra criterio de lectura ejecutiva, no la logica completa
+          del sistema privado.
+        </p>
+      </div>
+    </section>
+
+    <section class="footer-note">
+      <p>
+        Esta demo es deliberadamente limitada: muestra capacidad de comunicacion,
+        visualizacion y priorizacion sin exponer activos metodologicos protegidos.
+      </p>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
