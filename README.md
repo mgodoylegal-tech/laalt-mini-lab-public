@@ -6,6 +6,12 @@ Este repositorio funciona como la capa visual publica del ecosistema.
 
 Su objetivo no es explicar el sistema completo ni operar auditorias reales. Su objetivo es mostrar, de forma entendible y profesional, como un conjunto reducido de hallazgos puede leerse desde prioridad, estado, ownership, vencimientos y seguimiento.
 
+## Enlaces publicos
+
+- Sitio: `https://mgodoylegal-tech.github.io/laalt-mini-lab-public/`
+- Contexto general del ecosistema: `https://mgodoylegal-tech.github.io/laalt-overview/`
+- Guia publica recortada: `https://mgodoylegal-tech.github.io/laalt-auditor-guide-public/`
+
 ## Rol dentro del ecosistema
 
 | Repositorio | Rol publico o privado |
@@ -49,6 +55,10 @@ Abrir `index.html` con Live Server o servir la carpeta como sitio estatico.
 ```bash
 npx serve .
 ```
+
+## Publicacion
+
+Este repo incluye workflow de GitHub Pages para desplegar el sitio estatico desde la rama `main`.
 
 ## Nota editorial
 
