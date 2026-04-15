@@ -28,6 +28,12 @@ Su objetivo es presentar, de forma entendible y profesional, como un conjunto re
 - lectura ejecutiva de prioridad, estado y seguimiento
 - criterio de comunicacion para hallazgos orientados a decision
 
+## Que justifica este repo publicamente
+
+- demostrar una lectura visual breve y ordenada de hallazgos
+- mostrar como prioridad, owner y vencimiento cambian la calidad de lectura
+- dejar evidencia de criterio informacional sin depender de volumen
+
 ## Que no muestra
 
 - taxonomias extensas
