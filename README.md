@@ -1,10 +1,10 @@
 ﻿# LAALT Mini Lab Public
 
-> Demo visual publica del ecosistema LAALT para mostrar lectura ejecutiva de hallazgos en una interfaz breve, clara y ordenada.
+> Vista publica del ecosistema LAALT para presentar lectura ejecutiva de hallazgos en una interfaz breve, clara y ordenada.
 
 Este repositorio funciona como la capa visual publica del ecosistema.
 
-Su objetivo es mostrar, de forma entendible y profesional, como un conjunto reducido de hallazgos puede leerse desde prioridad, estado, ownership, vencimientos y seguimiento.
+Su objetivo es presentar, de forma entendible y profesional, como un conjunto reducido de hallazgos puede leerse desde prioridad, estado, ownership, vencimientos y seguimiento.
 
 ## Enlaces publicos
 
@@ -16,17 +16,17 @@ Su objetivo es mostrar, de forma entendible y profesional, como un conjunto redu
 
 | Repositorio | Rol publico o privado |
 | --- | --- |
-| `laalt-mini-lab-public` | Demo visual publica / showcase ejecutivo |
+| `laalt-mini-lab-public` | Vista publica / lectura ejecutiva |
 | `laalt-auditor-guide-public` | Guia pedagogica publica recortada |
 | `laalt-overview` | Mapa general y contexto publico del ecosistema |
 | `cyber-audit-core-lab` | Nucleo metodologico y operativo privado |
 
 ## Que muestra
 
-- una demo visual compacta
+- una vista visual compacta
 - un dataset publico, reducido y seguro
 - lectura ejecutiva de prioridad, estado y seguimiento
-- criterio de comunicacion para findings orientados a decision
+- criterio de comunicacion para hallazgos orientados a decision
 
 ## Que no muestra
 
