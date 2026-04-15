@@ -18,7 +18,7 @@
   <text x="110" y="230" fill="#f8fbff" font-size="64" font-weight="700" font-family="Inter, Arial, sans-serif">LAALT Mini Lab Public</text>
   <text x="110" y="290" fill="#c7d4e9" font-size="30" font-family="Inter, Arial, sans-serif">Hallazgos que se leen como decisiones.</text>
   <text x="110" y="352" fill="#98a8c2" font-size="24" font-family="Inter, Arial, sans-serif">Demo visual publica para mostrar prioridad, estado, owner</text>
-  <text x="110" y="388" fill="#98a8c2" font-size="24" font-family="Inter, Arial, sans-serif">y seguimiento visible sin exponer el metodo privado.</text>
+  <text x="110" y="388" fill="#98a8c2" font-size="24" font-family="Inter, Arial, sans-serif">y seguimiento visible en una interfaz breve y ordenada.</text>
   <rect x="110" y="450" width="286" height="54" rx="14" fill="url(#glow)"/>
-  <text x="140" y="485" fill="#06211f" font-size="24" font-weight="700" font-family="Inter, Arial, sans-serif">Portfolio visual y ejecutivo</text>
+  <text x="140" y="485" fill="#06211f" font-size="24" font-weight="700" font-family="Inter, Arial, sans-serif">Lectura visual y ejecutiva</text>
 </svg>

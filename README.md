@@ -1,10 +1,10 @@
 ﻿# LAALT Mini Lab Public
 
-> Demo visual publica del ecosistema LAALT para mostrar lectura ejecutiva de hallazgos sin exponer el metodo privado.
+> Demo visual publica del ecosistema LAALT para mostrar lectura ejecutiva de hallazgos en una interfaz breve, clara y ordenada.
 
 Este repositorio funciona como la capa visual publica del ecosistema.
 
-Su objetivo no es explicar el sistema completo ni operar auditorias reales. Su objetivo es mostrar, de forma entendible y profesional, como un conjunto reducido de hallazgos puede leerse desde prioridad, estado, ownership, vencimientos y seguimiento.
+Su objetivo es mostrar, de forma entendible y profesional, como un conjunto reducido de hallazgos puede leerse desde prioridad, estado, ownership, vencimientos y seguimiento.
 
 ## Enlaces publicos
 
@@ -30,23 +30,23 @@ Su objetivo no es explicar el sistema completo ni operar auditorias reales. Su o
 
 ## Que no muestra
 
-- taxonomia completa del sistema privado
-- matriz completa de traduccion
-- scoring interno sensible
-- flujo operativo completo
-- plantillas canonicas
-- backend, configuraciones internas o logica privada del core
+- taxonomias extensas
+- matrices de clasificacion detalladas
+- scoring sensible
+- flujos operativos completos
+- plantillas de trabajo
+- backend o configuraciones internas
 
-## Criterio de seguridad
+## Criterio editorial
 
-Este repositorio esta diseñado para que el visitante entienda el valor de la capa visual sin poder reconstruir la capa doctrinal ni la capa operativa principal.
+Este repositorio esta diseñado para que la capa visual se entienda por si misma, con foco en claridad, recorrido y legibilidad.
 
 Por eso:
 
 - los hallazgos de ejemplo son sinteticos
 - el lenguaje es publico y no canonico
 - el detalle de lectura se mantiene deliberadamente corto
-- la demo no pretende representar el sistema privado completo
+- la demo privilegia una experiencia breve y concreta
 
 ## Uso local
 
@@ -62,4 +62,4 @@ Este repo incluye workflow de GitHub Pages para desplegar el sitio estatico desd
 
 ## Nota editorial
 
-Si un contenido nuevo ayuda a inferir taxonomia, matriz, scoring, plantillas o flujo completo, no debe publicarse aca.
+Si un contenido nuevo rompe la claridad de la demo o amplifica de mas su alcance, conviene resumirlo o dejarlo fuera.
