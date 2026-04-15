@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-label="LAALT Mini Lab Public">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#07101f"/>
+      <stop offset="100%" stop-color="#0a1424"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" x2="1">
+      <stop offset="0%" stop-color="#5eead4" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#93c5fd" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="180" cy="120" r="180" fill="#5eead4" opacity="0.08"/>
+  <circle cx="1020" cy="520" r="220" fill="#60a5fa" opacity="0.08"/>
+  <rect x="70" y="72" width="1060" height="486" rx="28" fill="#0c172a" stroke="#31425f"/>
+  <rect x="110" y="118" width="180" height="34" rx="17" fill="#0f2f2b" stroke="#2f6c65"/>
+  <text x="130" y="140" fill="#5eead4" font-size="18" font-family="Inter, Arial, sans-serif">DEMO VISUAL PUBLICA</text>
+  <text x="110" y="230" fill="#f8fbff" font-size="64" font-weight="700" font-family="Inter, Arial, sans-serif">LAALT Mini Lab Public</text>
+  <text x="110" y="290" fill="#c7d4e9" font-size="30" font-family="Inter, Arial, sans-serif">Hallazgos que se leen como decisiones.</text>
+  <text x="110" y="352" fill="#98a8c2" font-size="24" font-family="Inter, Arial, sans-serif">Demo visual publica para mostrar prioridad, estado, owner</text>
+  <text x="110" y="388" fill="#98a8c2" font-size="24" font-family="Inter, Arial, sans-serif">y seguimiento visible sin exponer el metodo privado.</text>
+  <rect x="110" y="450" width="286" height="54" rx="14" fill="url(#glow)"/>
+  <text x="140" y="485" fill="#06211f" font-size="24" font-weight="700" font-family="Inter, Arial, sans-serif">Portfolio visual y ejecutivo</text>
+</svg>
